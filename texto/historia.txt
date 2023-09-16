@@ -1,0 +1,51 @@
+"Você acorda no dia que começa a matrícula, você é um estudante de Engenharia de Software da FGA (UnB - Campus Gama) e está no 5º semestre. Depois de um semestre cheio de reprovação, você está dedicado a pegar todas as matérias que precisa!" 
+
+
+1. Entrar no sigaa. (1)
+2. Dormir cedo e tentar outro dia. 
+3. Pedir dicas para um veterano.
+
+
+
+
+1 - Ao tentar entrar no sigaa logo no primeiro dia, percebe que o fluxo de pessoas está muito grande, o que levou o site a se sobrecarregar e ficar muito lento. Você está ansioso, pois deseja ver como está a situação de solicitação de vagas nas matérias que deseja
+
+
+    1. Clique no botão "Matrícula online" e prepare-se para a longa espera.(1.1)
+    2. Tente fazer um ritual de boa sorte para agilizar o sistema(1.2)
+
+
+1.1 - Ao escolher esperar matrícula, você aguarda e enquanto isso vê no grupo do telegram do curso de engenharia de software que o tempo médio de espera é de 40 minutos até o carregamento. 
+
+    1. Ler um livro. (1.1.1)
+    2. Resolve deixar para outro dia, afinal prefere aproveitar seu tempo de férias para se divertir (conectar com história de deixar para outro dia)
+
+
+1.1.1 - Após ler alguns capítulos do livro, o sistema carrega e chega a hora de selecionar as matrículas. Você seleciona suas opções e na hora de confirmar o sistema cai e é preciso recomeçar o processo.
+
+    1. Você prepara mais um capítulo do livro e recomeça o processo (1.1.1.1)
+    2. Desiste de se matricular por agora e vai chorar em posição fetal(1.2.1.1)
+
+
+1.1.1.1 Depois de uma longa espera, finalmente você consegue fazer a confirmação da matrícula.
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+
+
+
+1.2 Você decide fazer um ritual para tentar acelerar o sistema de matrícula. Você acende algumas velas, coloca uma música de fundo  de suspense e começa a dançar em torno do seu computador enquanto diz as palavras mágicas. No entanto, nada parece acontecer e você fica constrangido.
+
+    1. Para com o ritual e aguarda com muita paciência o sistema carregar (1.2.1)
+    2. Desiste de se matricular no primeiro dia e vai assistir série para aproveitar as férias(1.2.1.1)
+
+
+1.2.1 Após uma longa espera, finalmente são carregadas as matérias e você seleciona as desejadas. Quando você vai confirmar a matrícula, o sistema cai e é preciso recomeçar o processo
+
+    1. Desiste e vai reclamar com os amigos como forma de aliviar o estresse (1.2.1.1)
+    2. Bebe uma água para se acalmar e recomeça sua jornada, afinal você precisa passar por mais esse desafio para se formar(1.2.1.2)
+
+
+1.2.1.1 Você fecha o navegador com frustração e decide que a matrícula pode esperar por outro dia. Às vezes, é melhor deixar a tecnologia resolver seus próprios problemas. Você se promete que, na próxima vez, tentará novamente e terá uma história mais engraçada para contar sobre as aventuras na matrícula da universidade.(FIM)
+
+
+1.2.1.2 Após se acalmar, você tenta novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado com não dar certo de primeira. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso.
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
