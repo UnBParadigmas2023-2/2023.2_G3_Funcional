@@ -1,7 +1,7 @@
 1|Você acorda no dia que começa a matrícula, você é um estudante de Engenharia de Software da FGA (UnB - Campus Gama) e está no 5º semestre. Depois de um semestre cheio de reprovações, você está dedicado a pegar todas as matérias que precisa!" 
--Entrar no Sigaa.| 2
--Dormir cedo e tentar outro dia.|9 
--Pedir dicas para um veterano.|20
+    -Entrar no Sigaa.|2
+    -Dormir cedo e tentar outro dia.|9 
+    -Pedir dicas para um veterano.|20
 
 2|Ao tentar entrar no sigaa logo no primeiro dia, percebe que o fluxo de pessoas está muito grande, o que levou o site se sobrecarregar e ficar muito lento. Você está ansioso, pois deseja descobrir como está a situação de solicitação de vagas nas matérias que deseja.
     - Clique no botão "Matrícula online" e prepare-se para a longa espera.|3
@@ -18,8 +18,7 @@
     - Desiste de se matricular por agora e vai chorar em posição fetal.|9
 
 
-7|Depois de uma longa espera, finalmente você consegue realizar a confirmação da matrícula.
-Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+7|Depois de uma longa espera, finalmente você consegue realizar a confirmação da matrícula. Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
 
 
 4|Você decide fazer um ritual para tentar acelerar o sistema de matrícula. Você acende algumas velas, coloca uma música de fundo de suspense e começa a dançar em torno do seu computador enquanto diz as palavras mágicas. No entanto, nada parece acontecer e você fica constrangido.
@@ -31,8 +30,7 @@ Com sua matrícula confirmada, você sai da situação com uma lição valiosa: 
     - Desiste e vai reclamar com os amigos como forma de aliviar o estresse.|9
     - Bebe uma água para se acalmar e recomeça sua jornada, afinal você precisa passar por mais esse desafio para se formar.|8
 
-8|Após se acalmar, você se arrisca novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado o fracasso na primeira tentativa. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso.
-Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+8|Após se acalmar, você se arrisca novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado o fracasso na primeira tentativa. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso. Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
 
 
 9|Você decide que não irá se estressar com isso no primeiro dia, afinal não é por ordem de chegada! Com isso você relaxa e vai viver a sua noite. No outro dia você tinha um compromisso então preferiu deixar para depois. Quando você foi perceber, já era o último dia de matrícula! Além disso, é o dia que você precisa lavar o chão da casa!
@@ -87,4 +85,4 @@ Com sua matrícula confirmada, você sai da situação com uma lição valiosa: 
 
 25|Você e todos seus amigos saem na manhã do dia seguinte da festa, passam em suas casas, arrumam suas bagagens e vão para Pirenópolis sem ao menos descansar, com intuito de chegar lá o quanto antes para aproveitar bastante o local. Durante essa viagem você se diverte tanto que esquece que ainda tinha obrigações pendentes com a faculdade, mesmo durante o período das férias, então acaba perdendo o período de matrículas, rematrícula e matrícula extraordinária, o que é terrível, porque agora está sem nenhuma matéria para cursar durante o semestre. Devido a isso, alguns dias depois recebe o comunicado que está sendo jubilado da faculdade por não cursar um número suficiente de matérias com aproveitamento (aprovação) durante o ano. Com essa situação você aprende uma importante lição:  Às vezes, é melhor fazer as tarefas importantes primeiro, principalmente antes de partir para diversão.(FIM)
 
-26|Você lembra de falar com seu amigo veterano sobre as dúvidas que tinha antes de partir, ele te dá diversos bons conselhos e então você volta para casa preparado para realizar a melhor escolha de disciplina que já fez na vida. Ao chegar em casa o sigaa não está mais tão congestionado, então realiza tranquilamente todas as atividades que tinha planejado, conseguindo ao final todas as 5 matérias que pediu e ainda sobrando um bom tempo para ir até onde seus amigos estão e aproveitar o resto das férias. Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "É importante se divertir, mas às vezes, é melhor deixar isso de lado para se obter bons resultados, portanto o equilíbrio é sempre (ou quase sempre) o melhor caminho. Se divirta, mas com consciência, pois assim você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+26|Você lembra de falar com seu amigo veterano sobre as dúvidas que tinha antes de partir, ele te dá diversos bons conselhos e então você volta para casa preparado para realizar a melhor escolha de disciplina que já fez na vida. Ao chegar em casa o sigaa não está mais tão congestionado, então realiza tranquilamente todas as atividades que tinha planejado, conseguindo ao final todas as 5 matérias que pediu e ainda sobrando um bom tempo para ir até onde seus amigos estão e aproveitar o resto das férias. Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "É importante se divertir, mas às vezes, é melhor deixar isso de lado para se obter bons resultados, portanto o equilíbrio é sempre (ou quase sempre) o melhor caminho. Se divirta, mas com consciência, pois assim você sempre encontrará uma maneira de fazer as coisas funcionarem!(FIM)
