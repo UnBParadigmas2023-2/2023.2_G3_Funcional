@@ -1,0 +1,136 @@
+{
+    id: 1,
+    texto: Você acorda no dia que começa a matrícula, você é um estudante de Engenharia de Software da FGA (UnB - Campus Gama) e está no 5º semestre. Depois de um semestre cheio de reprovações, você está dedicado a pegar todas as matérias que precisa!" 
+    opcoes:[
+        {
+            texto: "Entrar no sigaa.",
+            destino: 2
+        },
+        {
+            texto: "Entrar no sigaa.",
+            destino: 2
+        },
+    ]
+}
+
+------------------------------
+
+
+
+1|Você acorda no dia que começa a matrícula, você é um estudante de Engenharia de Software da FGA (UnB - Campus Gama) e está no 5º semestre. Depois de um semestre cheio de reprovações, você está dedicado a pegar todas as matérias que precisa!" 
+-Entrar no Sigaa.| 2
+-Dormir cedo e tentar outro dia.|9 
+-Pedir dicas para um veterano.|20
+
+2|Ao tentar entrar no sigaa logo no primeiro dia, percebe que o fluxo de pessoas está muito grande, o que levou o site se sobrecarregar e ficar muito lento. Você está ansioso, pois deseja descobrir como está a situação de solicitação de vagas nas matérias que deseja.
+    - Clique no botão "Matrícula online" e prepare-se para a longa espera.|3
+    - Tente fazer um ritual de boa sorte para agilizar o sistema|4
+
+
+3|Ao escolher esperar matrícula, você aguarda e enquanto isso vê no grupo do telegram do curso de engenharia de software que o tempo médio de espera é de 40 minutos até o carregamento. 
+
+    - Ler um livro.|5
+    - Escolher deixar para outro dia, afinal prefere aproveitar seu tempo de férias para se divertir.|9
+
+
+5|Após ler alguns capítulos do livro, o sistema carrega e chega a hora de selecionar as matrículas. Você seleciona suas opções e na hora de confirmar o sistema cai e é preciso recomeçar o processo.
+
+    - Você prepara mais um capítulo do livro e recomeça o processo.|7
+    - Desiste de se matricular por agora e vai chorar em posição fetal.|9
+
+
+7|Depois de uma longa espera, finalmente você consegue realizar a confirmação da matrícula.
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+
+
+4|Você decide fazer um ritual para tentar acelerar o sistema de matrícula. Você acende algumas velas, coloca uma música de fundo de suspense e começa a dançar em torno do seu computador enquanto diz as palavras mágicas. No entanto, nada parece acontecer e você fica constrangido.
+
+    - Parar com o ritual e aguarda com muita paciência o sistema carregar.|6
+    - Desiste de se matricular no primeiro dia e vai assistir série para aproveitar as férias.|9
+
+
+6| Após uma longa espera, finalmente são carregadas as matérias e você seleciona as desejadas. Quando você confirma a matrícula, o sistema cai e é preciso recomeçar o processo.
+
+    - Desiste e vai reclamar com os amigos como forma de aliviar o estresse.|9
+    - Bebe uma água para se acalmar e recomeça sua jornada, afinal você precisa passar por mais esse desafio para se formar.|8
+
+8|Após se acalmar, você se arrisca novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado o fracasso na primeira tentativa. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso.
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+
+2  - Dormir cedo e tentar outro dia. 
+
+|Você decide que não irá se estressar com isso no primeiro dia, afinal não é por ordem de chegada! Com isso você relaxa e vai viver a sua noite. No outro dia você tinha um compromisso então preferiu deixar para depois. Quando você foi perceber, já era o último dia de matrícula! Além disso, é o dia que você precisa lavar o chão da casa!
+
+    - Entrar no sigaa e tentar pegar uma matéria.|
+    - Limpar o chão da casa.|
+
+|2.1 - Você entra no sigaa o mais rápido que consegue, e entra na tela de matrícula. Você escolhe as matérias da melhor maneira possível e vai para a página de confirmação, ao digitar suas credenciais e clicar em ok, a seguinte mensagem aparece: “Conexão com internet perdida”.
+
+    - Tentar reiniciar o computador.|
+    - Verificar modem.|
+
+|2.1.1 - Você reinicia o computador e percebe que a internet realmente caiu, não foi um problema no site. Por algum motivo a internet caiu. logo em seguida você escuta a voz da sua mãe na cozinha: “Você não vai usar esse computador até você ir limpar o chão dessa casa!”, você estava tão focado em ver os horários e matérias que você não percebeu as várias outras vezes que ela reclamou.
+
+    - Tentar argumentar com sua mãe.|
+    - Ir limpar o chão da casa.| (2.2)
+
+|2.1.2 Você vai para a sala e procura o modem para ver se teve algum problema na internet, quando você chega lá, o modem sumiu! Logo em seguida você escuta a voz da sua mãe na cozinha: “Você não vai usar esse computador até você ir limpar o chão dessa casa!”, você estava tão focado em ver os horários e matérias que você não percebeu as várias outras vezes que ela reclamou.
+
+    - Procurar onde ela escondeu o modem.|
+    - Tentar argumentar com sua mãe.| (2.1.1.1)
+
+|2.1.1.1 Você tenta argumentar que é pra pegar as matérias da faculdade e que se não fizer a matrícula, pode ficar atrasado, mas tudo é inútil, ela não quer te escutar, sem ter escolha, você vai lavar o chão. Ao terminar você entra no sigaa para fazer a matrícula e olha o relógio: “00:20”, o período de matrícula foi fechado.
+
+    - Tentar pegar as matérias na rematrícula.|
+    - Resolver presencialmente na faculdade.|
+
+|2.1.1.1.1 Você tenta pegar as matérias que você precisa na rematrícula, sem sorte, volta para opção da matrícula extraordinária, o que te rende 2 das 5 matérias que você queria, tendo que preencher o resto com matérias optativas. Era melhor ter se programado melhor.(FIM)
+
+|2.1.2.1 Você vasculha a casa em busca do modem por todos os cantos da casa, bagunçando tudo em seu caminho, jogando gavetas no chão, revirando armários e prateleiras. Depois disso tudo, você ainda não achou o modem. Ao olhar as horas você percebe que já virou o dia e o período de matrícula acabou. Logo depois que sua mãe chega em casa, você estava tão focado em procurar o modem q vc não percebeu que ela tinha saído de casa. Ao perceber a bagunça, ela fica o mais brava de uma forma que você nunca viu na vida. Sem mais nem menos você é expulso de casa. As vezes tem coisas mais importantes na vida do que uma matéria da faculdade. (FIM)
+
+|2.1.1.1.2 Você decide que se a tecnologia não te ajudará, mas o "boca a boca" irá. Na manhã seguinte você vai para a faculdade, depois de uma longa viagem de metrô e ônibus. Ao chegar você encontra a faculdade vazia. Você segue para a recepção.
+
+    - Perguntar pelo orientador.|
+    - Procurar os professores das matérias obrigatórias.|
+
+|2.1.1.1.2.1 Você pergunta onde o orientador se encontra e é indicado sua localização. Você se dirige a sala dele e tem uma conversa muito amigável, o qual ele te orienta de tudo que você precisará fazer e que vai te ajudar a conseguir as vagas. No final das contas você consegue 4 das 5 matérias que você queria, nada mal! (FIM)
+
+|2.1.1.1.2.2 Você pergunta onde é a sala dos professores das matérias que você quer pegar. Ao se dirigir a sala deles, você encontra alguns deles e descobre que os outros não estarão na faculdade até começar as aulas. Você consegue 3 das 5 matérias que você queria, próximo semestre você terá que ralar mais, mas irá sobreviver. (FIM)
+
+|2.2 Você limpa o chão da casa, cheio de medo de não dar tempo de fazer a matrícula, mas depois de conseguir um ritmo bom, você termina mais rápido do que você imagina. Sua mãe agradece enquanto sai para curtir a noite. Você olha o relógio: “22:00”, ainda dá tempo!. Você entra no sigaa e seleciona as matérias que você queria. Ao sair o resultado, você conseguiu todas as 5 matérias que você pediu. Arrasou!
+
+
+AQUI COMEÇA O SEGUNDO CAMINHO DA PRIMEIRA OPÇÃO
+
+|3 - Você relembra que um dos motivos das reprovações no último semestre foi tentar realizar diversas matérias muito difíceis ao mesmo tempo, por isso pensa que o melhor a se fazer agora é obter dicas de um amigo veterano para evitar cometer o mesmo erro. Entretanto, você lembra que ele provavelmente também está tentando realizar a matrícula nas turmas do próximo semestre.
+    
+    - Pedir ajuda para seu amigo veterano agora.| (3.1)
+    - Deixar para fazer isso depois, afinal ele terá mais tempo para te auxiliar quando terminar a própria matrícula e talvez você nem precise tanto da ajuda dele.| (2)
+
+|3.1 - Ao pensar em enviar uma mensagem para seu amigo lembra que ele costuma demorar muito para responder, pois é uma pessoa muito ocupada e além da faculdade também trabalha em dois empregos diferentes.
+
+    - Enviar uma mensagem e esperar por uma resposta.| (3.1.1)
+    - Ligar para seu amigo, afinal vocês se conhecem a muito tempo e sabe que se  ligar ele provavelmente irá atender rapidamente.| (3.1.2)
+
+|3.1.1 - Você envia uma mensagem e aguarda por uma resposta. Enquanto isso você decide aproveitar suas férias e não se preocupar até receber uma resposta. Então se passaram diversos dias e aparentemente seu amigo esqueceu de responder sua mensagem, você acorda um determinado dia lembrando da situação e corre decidido ao computador para tentar  resolver logo essa situação, ao entrar no sigaa clica em “realizar matrícula” e vê que o prazo acabou no dia anterior.
+
+    - Tentar pegar as matérias na rematrícula.| (2.1.1.1.1)
+    - Resolver presencialmente na faculdade.| (2.1.1.1.2)
+
+|3.1.2 - Você liga para seu amigo que rapidamente atende a sua chamada, ao explicar a situação para seu amigo ele diz que agora está ocupado e mais tarde está indo para uma festa e o convida para ir com ele e depois te explica melhor sobre como escolher melhor as disciplinas.
+
+    - Aceitar o convite e ir se divertir, afinal as férias são para isso.| (3.1.2.1)
+    - Recusar o convite e entrar no sigaa para realizar a matrícula.| (1)
+
+|3.1.2.1 Você aceita o convite e vai para a festa se divertir, durante a noite aproveita bastante e escuta a ideia que seu amigo apresenta para todos como a melhor que ele já teve em toda sua vida: “Galera, tive a melhor ideia da minha vida, vamos fazer uma viagem para aproveitar as férias, a gente aluga uma casa em Pirenópolis e aproveitamos o resto das férias lá”, todos escutam a ideia encantados e decidem ir.
+
+    - Ir com a galera para Pirenópolis.| (3.1.2.1.1)
+    - Falar para seus amigos que precisa ficar em casa e terminar de realizar as matrículas.| (3.1.2.1.2)
+
+|3.1.2.1.1 Você e todos seus amigos saem na manhã do dia seguinte da festa, passam em suas casas, arrumam suas bagagens e vão para Pirenópolis sem ao menos descansar, com intuito de chegar lá o quanto antes para aproveitar bastante o local. Durante essa viagem você se diverte tanto que esquece que ainda tinha obrigações pendentes com a faculdade, mesmo durante o período das férias, então acaba perdendo o período de matrículas, rematrícula e matrícula extraordinária, o que é terrível, porque agora está sem nenhuma matéria para cursar durante o semestre. Devido a isso, alguns dias depois recebe o comunicado que está sendo jubilado da faculdade por não cursar um número suficiente de matérias com aproveitamento (aprovação) durante o ano.
+
+Com essa situação você aprende uma importante lição:  Às vezes, é melhor fazer as tarefas importantes primeiro, principalmente antes de partir para diversão.(FIM)
+
+|3.1.2.1.2 Você lembra de falar com seu amigo veterano sobre as dúvidas que tinha antes de partir, ele te dá diversos bons conselhos e então você volta para casa preparado para realizar a melhor escolha de disciplina que já fez na vida. Ao chegar em casa o sigaa não está mais tão congestionado, então realiza tranquilamente todas as atividades que tinha planejado, conseguindo ao final todas as 5 matérias que pediu e ainda sobrando um bom tempo para ir até onde seus amigos estão e aproveitar o resto das férias. 
+
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "É importante se divertir, mas às vezes, é melhor deixar isso de lado para se obter bons resultados, portanto o equilíbrio é sempre (ou quase sempre) o melhor caminho. Se divirta, mas com consciência, pois assim você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
