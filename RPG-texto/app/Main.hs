@@ -1,6 +1,9 @@
 module Main (main) where
 
-import Lib
+import Story (runStory)
 
 main :: IO ()
-main = someFunc
+main = do
+    putStrLn "\n\nCalouro, está na hora de se matricular!!!"
+    putStrLn "\n                                  ou não rs\n"
+    runStory
