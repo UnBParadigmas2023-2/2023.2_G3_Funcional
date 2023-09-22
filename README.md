@@ -24,6 +24,7 @@ O projeto usa de estrutura de grafos e parser para leitura de um arquivo txt par
 Abaixo consta a estrutura da história usada para criação do arquivo txt.
 
 
+![image](https://github.com/UnBParadigmas2023-2/2023.2_G3_Funcional/assets/66687841/603fc808-ea65-4f90-a2d9-4508197ee125)
 
 
 ## Screenshots
