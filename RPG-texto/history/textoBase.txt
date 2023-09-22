@@ -33,17 +33,17 @@
     - Escolher deixar para outro dia, afinal prefere aproveitar seu tempo de férias para se divertir.|9
 
 
-5|Após ler alguns capítulos do livro, o sistema carrega e chega a hora de selecionar as matrículas. Você seleciona suas opções e na hora de confirmar o sistema cai e é preciso recomeçar o processo.
+5|Após ler alguns capítulos do livro, o sistema carrega e chega a hora de selecionar as matrículas. Você seleciona suas opções e na hora de confirmar o sistema cai! É preciso recomeçar o processo.
 
     - Você prepara mais um capítulo do livro e recomeça o processo.|7
     - Desiste de se matricular por agora e vai chorar em posição fetal.|9
 
 
-7|Depois de uma longa espera, finalmente você consegue realizar a confirmação da matrícula.
-Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e você sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
+7|Depois de uma longa espera, finalmente consegue realizar a confirmação da matrícula.
+Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que precisa para superar os desafios. Mantenha um espírito leve e sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
 
 
-4|Você decide fazer um ritual para tentar acelerar o sistema de matrícula. Você acende algumas velas, coloca uma música de fundo de suspense e começa a dançar em torno do seu computador enquanto diz as palavras mágicas. No entanto, nada parece acontecer e você fica constrangido.
+4|Você decide fazer um ritual para tentar acelerar o sistema de matrícula. Acende algumas velas, coloca uma música de fundo de suspense e começa a dançar em torno do seu computador enquanto diz as palavras mágicas. No entanto, nada parece acontecer e você fica constrangido.
 
     - Parar com o ritual e aguarda com muita paciência o sistema carregar.|6
     - Desiste de se matricular no primeiro dia e vai assistir série para aproveitar as férias.|9
@@ -54,17 +54,17 @@ Com sua matrícula confirmada, você sai da situação com uma lição valiosa: 
     - Desiste e vai reclamar com os amigos como forma de aliviar o estresse.|9
     - Bebe uma água para se acalmar e recomeça sua jornada, afinal você precisa passar por mais esse desafio para se formar.|8
 
-8|Após se acalmar, você se arrisca novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado o fracasso na primeira tentativa. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso.
+8|Após se acalmar, você se arrisca novamente, afinal é só mais um dos obstáculos que você passa como aluno de software e já está acostumado com o fracasso na primeira tentativa. O sistema, aparentemente satisfeito, volta à vida e você consegue confirmar sua matrícula com sucesso.
 Com sua matrícula confirmada, você sai da situação com uma lição valiosa: "Às vezes, um toque de humor e criatividade é tudo o que você precisa para superar os desafios. Mantenha um espírito leve e sempre encontrará uma maneira de fazer as coisas funcionarem! (FIM)
 
 2  - Dormir cedo e tentar outro dia. 
 
-|Você decide que não irá se estressar com isso no primeiro dia, afinal não é por ordem de chegada! Com isso você relaxa e vai viver a sua noite. No outro dia você tinha um compromisso então preferiu deixar para depois. Quando você foi perceber, já era o último dia de matrícula! Além disso, é o dia que você precisa lavar o chão da casa!
+|Você decide que não irá se estressar com isso no primeiro dia, afinal não é por ordem de chegada! Com isso pode relaxar e vai viver a sua noite. No outro dia você tinha um compromisso então preferiu deixar para depois. Quando você foi perceber, já era o último dia de matrícula! Além disso, é o dia que você precisa lavar o chão da casa!
 
     - Entrar no sigaa e tentar pegar uma matéria.|
     - Limpar o chão da casa.|
 
-|2.1 - Você entra no sigaa o mais rápido que consegue, e entra na tela de matrícula. Você escolhe as matérias da melhor maneira possível e vai para a página de confirmação, ao digitar suas credenciais e clicar em ok, a seguinte mensagem aparece: “Conexão com internet perdida”.
+|2.1 - Você entra no sigaa o mais rápido que consegue, e vai para a tela de matrícula. Escolhe as matérias da melhor maneira possível e vai para a página de confirmação, ao digitar suas credenciais e clicar em ok, a seguinte mensagem aparece: “Conexão com internet perdida”.
 
     - Tentar reiniciar o computador.|
     - Verificar modem.|
@@ -84,7 +84,7 @@ Com sua matrícula confirmada, você sai da situação com uma lição valiosa: 
     - Tentar pegar as matérias na rematrícula.|
     - Resolver presencialmente na faculdade.|
 
-|2.1.1.1.1 Você tenta pegar as matérias que você precisa na rematrícula, sem sorte, volta para opção da matrícula extraordinária, o que te rende 2 das 5 matérias que você queria, tendo que preencher o resto com matérias optativas. Era melhor ter se programado melhor.(FIM)
+|2.1.1.1.1 Você tenta pegar as matérias que você precisa na rematrícula, sem sorte, volta para opção da matrícula extraordinária, o que te rende 2 das 5 matérias que você gostaria, necessitando preencher o resto com matérias optativas. Era melhor ter se programado melhor.(FIM)
 
 |2.1.2.1 Você vasculha a casa em busca do modem por todos os cantos da casa, bagunçando tudo em seu caminho, jogando gavetas no chão, revirando armários e prateleiras. Depois disso tudo, você ainda não achou o modem. Ao olhar as horas você percebe que já virou o dia e o período de matrícula acabou. Logo depois que sua mãe chega em casa, você estava tão focado em procurar o modem q vc não percebeu que ela tinha saído de casa. Ao perceber a bagunça, ela fica o mais brava de uma forma que você nunca viu na vida. Sem mais nem menos você é expulso de casa. As vezes tem coisas mais importantes na vida do que uma matéria da faculdade. (FIM)
 
