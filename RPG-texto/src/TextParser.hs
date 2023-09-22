@@ -1,4 +1,4 @@
-module TextParser(stringToInt, parseOption, parseLine) where
+module TextParser(stringToInt, parseOption, parseLine, Item(..), Option(..)) where
 import Data.List.Split (splitOn)
 
 data Option = Option { destiny :: Int  
