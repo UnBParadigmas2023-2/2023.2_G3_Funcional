@@ -19,6 +19,12 @@
 ## Sobre 
 O projeto consiste em um jogo de RPG dinâmico em Haskell que traz uma história cômica ao usuário de matrícula no sistema da UnB, onde quem está jogando pode escolher o caminho a ser tomado, e cada um leva a fins diferentes.
 
+O projeto usa de estrutura de grafos e parser para leitura de um arquivo txt para criação dos nós, os quais são navegados de acordo com a opção escolhida pelo usuário.
+
+Abaixo consta a estrutura da história usada para criação do arquivo txt.
+
+
+
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
