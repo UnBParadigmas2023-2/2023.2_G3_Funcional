@@ -1,5 +1,4 @@
 module FileReader(readFileLines) where
-import System.IO
 
 readFileLines :: FilePath -> IO [String]
 readFileLines filePath = do

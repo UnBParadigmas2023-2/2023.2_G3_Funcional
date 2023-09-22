@@ -42,8 +42,8 @@ library:
 
 executables:
   RPG-texto-exe:
-    main:                parser_example.hs
-    source-dirs:         src
+    main: Main.hs
+    source-dirs: app
     ghc-options:
     - -threaded
     - -rtsopts
