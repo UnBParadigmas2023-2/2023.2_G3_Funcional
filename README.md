@@ -38,9 +38,7 @@ Insira um manual ou um script para auxiliar ainda mais.
 Gifs animados e outras ilustrações são bem-vindos!
 
 ## Uso 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
+O Programa funciona do terminal. Inicialmente se escreve a descrição da situação o qual você se encontra, seguida pelas opções disponíveis para seguir, com isso o usuário digita a opção desejada e aperta enter, seguinda para a próxima descrição, fazendo isso até o final do caminho percorrido.
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
