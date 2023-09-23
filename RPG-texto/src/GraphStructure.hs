@@ -9,6 +9,7 @@ import Data.Graph.Inductive.Graph
 import Data.Graph.Inductive.PatriciaTree
 import qualified Data.Map as Map
 import Data.Maybe
+import Data.List
 import TextParser
 
 createGraph :: [Item] -> Gr String ()
@@ -34,10 +35,12 @@ showOptions graph nodeMap currentNode = do
   putStrLn "Escolha uma opção:"
   mapM_
     ( \(dest, _) -> do
-        let Just item = Map.lookup dest nodeMap
-        putStrLn (show dest ++ ": " ++ description (head (options item)))
+        let Just item = Map.lookup currentNode nodeMap
+        putStrLn (show dest ++ ": " ++ description (options item !! head(elemIndices dest (map fst successors))))
     )
     successors
+
+
   userInput <- getLine
   let selectedNode = read userInput
   if selectedNode `elem` (map fst successors)
