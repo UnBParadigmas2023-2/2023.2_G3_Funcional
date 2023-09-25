@@ -42,7 +42,7 @@ Após instalar todas as dependências e clonar o projeto, é necessário acessar
 
 ## Vídeo
 
-- GitHub: [ACESSO](RGP-texto/Video/videoApresentacao.mp4)
+- GitHub: [ACESSO](RPG-texto/Video/videoApresentacao.mp4)
 
 ## Participações
 
